@@ -1,4 +1,6 @@
-# Cadent Front-end Aptitude Test - Markup, Style, and Pre-processors
+# Cadent FED Aptitude Test - Markup, Style, and Pre-processors
+
+## Introduction
 
 This exercise is designed to test your understanding of the fundamental concepts HTML and CSS. The below prompt is going to walk you through a scenario where you're going to have to view a design and then make it come to life using nothing but HTML and CSS. Here are some of the items that it will test:
 
@@ -37,7 +39,7 @@ Your client's are pretty picky. They want you to use at least one of the each of
 - How scale-able are those styles? Did you give them room to change the color in an instant?
 - Did you choose a scale-able styling convention? Are they going to have problems with namespace clashing further on down the road?
 - What kind of elements did you use in the markup? Are screen readers going to have a tough time scanning through it?
--
+- How well did you implement some of the more accepted modern CSS attributes?
 
 ### Prototype
 
@@ -45,8 +47,8 @@ The design team has provided you with a prototype that they exported from Sketch
 
 Click on the link and use the password below to access the prototype:
 
-Link - https://invis.io/CMQTL3U5TBS
-PW - letsdothis!
+- Link: https://invis.io/CMQTL3U5TBS
+- PW: `letsdothis!`
 
 ## Getting Started
 
@@ -77,3 +79,5 @@ This will queue up Sass to compile all of your CSS rules down into one CSS file,
 Once you feel that you have completed everything to the best of your ability, please commit your changes and upload your work to a Codesandbox of your choice and forward the link to your recruiter.
 
 Make sure that you keep a local copy of it as that you'll be asked to review it when you come in for your in-person interview.
+
+Good luck!
