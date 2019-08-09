@@ -13,7 +13,7 @@ This exercise is designed to test your understanding of the fundamental concepts
 
 ## Prompt
 
-Congratulations! Someone that you cold just accepted your offer to help them redo their website. They chose you because they took a look at your Github and knew that you had extensive experience in styling their application.
+Congratulations! Someone that you cold called just accepted your offer to help them redo their website. They chose you because they took a look at your Github and knew that you had extensive experience in styling their application.
 
 They're looking to develop a prototype that they can bring to their leaders to show them just how much updating their style can do for their brand appearance. Rather than proving out a full fledged application, they have chosen the route of doing some UI engineering and develop something to really deliver a wow!
 
