@@ -58,21 +58,11 @@ Fork the repository and download it locally to your machine. If you don't have n
 
 ### Starting the development instance
 
-You're going to need 2 terminal sessions open at once running 2 different processes.
-In the 1st terminal session, run the following:
+In your terminal session and run this in the command line. This will start the server and queue up Sass to compile all of your CSS rules down into one CSS file, every-time you make a change:
 
 ```shell
 npm run start
 ```
-
-This will start up the development instance and reload your solution anytime a file changes.
-In the 2nd terminal session, run the following:
-
-```shell
-npm run style:watch
-```
-
-This will queue up Sass to compile all of your CSS rules down into one CSS file, every-time you make a change.
 
 ## Completing the assignment
 
